@@ -1,0 +1,26 @@
+{
+  "name": "tokenredact",
+  "version": "1.0.0",
+  "description": "Tiny dependency-free secret scanner: redact API keys and tokens from strings, env objects, and log files",
+  "author": "Marcus Vale <marcusvale.dev@proton.me>",
+  "main": "index.js",
+  "bin": {
+    "tokenredact": "bin/tokenredact.js"
+  },
+  "scripts": {
+    "test": "node test/basic.test.js"
+  },
+  "keywords": [
+    "secrets",
+    "redaction",
+    "security",
+    "scanner",
+    "logging",
+    "tokens",
+    "sanitizer"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}
