@@ -1,6 +1,6 @@
 {
   "name": "tokenredact",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tiny dependency-free secret scanner: redact API keys and tokens from strings, env objects, and log files",
   "author": "Marcus Vale <marcusvale.dev@proton.me>",
   "main": "index.js",
